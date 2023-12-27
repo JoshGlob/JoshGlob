@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JoshGlob
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on Python
+- 📫 How to reach me, joshglob2 on discord
